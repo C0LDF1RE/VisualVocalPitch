@@ -1,0 +1,1 @@
+C:\Users\kongq\Code\GitHub\VisualVocalPitch\VisualVocalPitch\VisualVocalPitch.csproj;x64
